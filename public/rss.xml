@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+    
+        <title></title>
+        <link></link>
+        <description></description>
+        <ttl>1440</ttl>
+        <generator>blades</generator>
+        <pubDate>Mon, 06 May 2024 16:41:16 GMT</pubDate>
+        
+    
+    
+        <item>
+            <title></title>
+            <link>/</link>
+            <description></description>
+            <pubDate>Sun, 17 Mar 2024 16:53:40 GMT</pubDate>
+        </item>
+        
+    
+        <item>
+            <title></title>
+            <link>/reading_list/</link>
+            <description></description>
+            <pubDate>Sat, 30 Mar 2024 00:37:01 GMT</pubDate>
+        </item>
+        
+    
+        <item>
+            <title></title>
+            <link>/poems/</link>
+            <description></description>
+            <pubDate>Sun, 17 Mar 2024 17:03:21 GMT</pubDate>
+        </item>
+        
+    
+        <item>
+            <title></title>
+            <link>/essays/</link>
+            <description></description>
+            
+        </item>
+        
+    
+        <item>
+            <title></title>
+            <link>/fiction/</link>
+            <description></description>
+            
+        </item>
+        
+    
+        <item>
+            <title>On why I liked 'Civil War'</title>
+            <link>/essays/on-civil-war-movie.html</link>
+            <description></description>
+            <pubDate>Sat, 04 May 2024 00:00:00 GMT</pubDate>
+        </item>
+        
+    
+        <item>
+            <title>La Perla del Papaloapan</title>
+            <link>/fiction/la-perla-del-papaloapan.html</link>
+            <description></description>
+            <pubDate>Sun, 05 May 2024 00:00:00 GMT</pubDate>
+        </item>
+        
+    
+        <item>
+            <title>Pinta Permanente</title>
+            <link>/poems/pinta-permanente.html</link>
+            <description></description>
+            <pubDate>Sun, 17 Mar 2024 00:00:00 GMT</pubDate>
+        </item>
+        
+    
+    </channel>
+</rss>
