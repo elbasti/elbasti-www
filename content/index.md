@@ -1,4 +1,6 @@
-### I am basti's website. Hullo!
++++
+template = "home.html"
++++
 
 <ul>
     <li>About me</li>
@@ -6,3 +8,4 @@
     <li>Reading list</li>
     <li>Poems</li>
 </ul>
+

@@ -4,16 +4,16 @@
         <loc>/</loc>
         <priority>0.5</priority>
     </url><url>
-        <loc>/reading_list/</loc>
-        <priority>0.5</priority>
-    </url><url>
-        <loc>/poems/</loc>
-        <priority>0.5</priority>
-    </url><url>
         <loc>/essays/</loc>
         <priority>0.5</priority>
     </url><url>
         <loc>/fiction/</loc>
+        <priority>0.5</priority>
+    </url><url>
+        <loc>/reading_list/</loc>
+        <priority>0.5</priority>
+    </url><url>
+        <loc>/poems/</loc>
         <priority>0.5</priority>
     </url><url>
         <loc>/essays/on-civil-war-movie.html</loc>

@@ -1,0 +1,21 @@
+{{>head.html}}
+
+<section class="container mx-auto columns-2 ">
+  <div class="bg-slate-400 text-center w-full break-after-column">
+    <h1 class="text-3xl">Sebastian Villarreal Singer</h1>
+    <p>Human being living in Mexico City.</p>
+    <p>I enjoy street food, fintech, and literature.</p>
+    <p>I made this website because I'm trying to write more and needed a place for my stuff.</p>
+  </div>
+
+  <div class="bg-slate-200 text-center w-full break-inside-avoid-column">
+    <ul class="break-inside-avoid-column">
+      {{#subsections}}
+      <li><a href="{{permalink}}">{{title}}</a></li>
+      {{/subsections}}
+    </ul>
+  </div>
+</section>
+
+
+{{>foot.html}}

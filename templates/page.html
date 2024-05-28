@@ -1,4 +1,10 @@
-<h2>And <i>I</i> am an empty page.</h2>
-<p>My title is {{title}}</p>
-<p>my content is:</p>
-{{content}}
+{{>head.html}}
+<section id="main" class="max-w-prose mx-auto prose">
+  <!-- <section id="main" class="prose prose-lg bg-slate-400"> -->
+  <article class="prose">
+    <h1>{{title}}</h1>
+    {{content}}
+  </article>
+</section>
+
+{{>foot.html}}

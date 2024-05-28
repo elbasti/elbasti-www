@@ -1,8 +1,19 @@
+<!DOCTYPE html>
+{{>head.html}}
+
 {{content}}
 <h3>My pages are:</h3>
 <ul>
-{{#pages}}
-    
-<li>{{title}}</li>
-{{/pages}}
+  {{#pages}}
+  <a href="{{permalink}}">{{title}}</a>
+  {{/pages}}
 </ul>
+
+<h3>My subsections are:</h3>
+<ul>
+  {{#subsections}}
+  <a href="{{permalink}}">{{title}}</a>
+  {{/subsections}}
+</ul>
+
+{{>foot.html}}
