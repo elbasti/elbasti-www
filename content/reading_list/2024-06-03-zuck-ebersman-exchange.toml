@@ -1,0 +1,27 @@
+title = "Zuck emails David Ebersman on buying instagram"
+slug = "zuck-ebersman-exchange"
+date = 2024-06-03
+
+hidden = true
+
+content = """
+Put your *possibly markdowned* content here.
+"""
+
+gallery = true
+
+[[pictures]]
+file = "assets/zuck_exchange/1.jpg"
+pid = "zuck_1"
+
+[[pictures]]
+file = "assets/zuck_exchange/2.jpg"
+pid = "zuck_2"
+
+[[pictures]]
+file = "assets/zuck_exchange/3.jpg"
+pid = "zuck_2"
+
+[[pictures]]
+file = "assets/zuck_exchange/4.jpg"
+pid = "zuck_4"

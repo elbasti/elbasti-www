@@ -15,15 +15,19 @@
     <link rel="alternate" type="application/rss+xml" title="RSS" href="/rss.xml">
     <link rel="stylesheet" href="/assets/style.css">
     
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Arimo:wght@600&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap"
+        rel="stylesheet">
 </head>
 
-<body class="bg-orange-50">
+<body class="bg-[#faf8f0] text-orange-950 font-body">
     <header>
         <!-- <nav itemscope itemtype="http://schema.org/SiteNavigationElement">
             
                 <a  itemprop="url" href="/"><span itemprop="name">Home</span></a>
-            
-                <a  itemprop="url" href="/essays/"><span itemprop="name">Essays</span></a>
             
                 <a  itemprop="url" href="/fiction/"><span itemprop="name">Fiction</span></a>
             
@@ -36,17 +40,29 @@
     </header>
 
     <main>
-<section id="main" class="max-w-prose mx-auto prose">
+<nav id="home_nav" class="flex flex-row-reverse w-full mb-16 px-8 py-4 fixed z-10 top-0">
+  <div id=" nav_img" class="aspect-square max-w-14 p-2 ml-2">
+    <a href="/"><img src="/assets/face-orange-600.svg" class="cursor-pointer"></img></a>
+  </div>
+</nav>
+
+<section id="main" class="max-w-prose mx-auto prose pt-48 pb-24">
   <!-- <section id="main" class="prose prose-lg bg-slate-400"> -->
   <article class="prose">
-    <h1>On Making Progress and Random Walks</h1>
-    <p>“How does anything get done at all?” is a question I think about a lot. It’s an important question, I think. Surely, (one of?) the points of life is to <em>do</em> things, and surely the present state of humanity is some sort of sum of all the things that have been done. </p>
+    <h1 class="text-orange-600 font-display text-6xl capitalize ">On Making Progress and Random Walks</h1>
+    <div id="page_prose_wrapper" class="mx-auto">
+      <p>“How does anything get done at all?” is a question I think about a lot. It’s an important question, I think. Surely, (one of?) the points of life is to <em>do</em> things, and surely the present state of humanity is some sort of sum of all the things that have been done. </p>
 <p>It’s also a question I find paradoxical. Anyone that’s tried to do big, ambitious things knows how f’n hard it is: the most common outcome is failure. And yet we’re surrounded by stuff that just.got.done.</p>
 
+    </div>
   </article>
 </section>
 
-</main>
-</body>
+<section id="pictures" class="max-w-prose mx-auto pb-48">
+  
+</section>
 
-</html>
+
+<footer id="footer" class="bg-orange-100 sticky h-12">
+  © Sebastián Villarreal Singer
+</footer>

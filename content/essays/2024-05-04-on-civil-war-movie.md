@@ -2,6 +2,7 @@
 title = "On *Civil War* and Campus Protests"
 slug = "on-civil-war-movie"
 date = 2024-05-04
+hidden = true
 +++
 
 

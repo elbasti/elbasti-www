@@ -4,9 +4,6 @@
         <loc>/</loc>
         <priority>0.5</priority>
     </url><url>
-        <loc>/essays/</loc>
-        <priority>0.5</priority>
-    </url><url>
         <loc>/fiction/</loc>
         <priority>0.5</priority>
     </url><url>
@@ -16,13 +13,22 @@
         <loc>/poems/</loc>
         <priority>0.5</priority>
     </url><url>
-        <loc>/essays/on-civil-war-movie.html</loc>
-        <priority>0.5</priority>
-    </url><url>
         <loc>/fiction/la-perla-del-papaloapan.html</loc>
         <priority>0.5</priority>
     </url><url>
         <loc>/poems/pinta-permanente.html</loc>
+        <priority>0.5</priority>
+    </url><url>
+        <loc>/poems/secretos.html</loc>
+        <priority>0.5</priority>
+    </url><url>
+        <loc>/poems/retirenme.html</loc>
+        <priority>0.5</priority>
+    </url><url>
+        <loc>/poems/una-pareja-en-dormimundo.html</loc>
+        <priority>0.5</priority>
+    </url><url>
+        <loc>/poems/presumido.html</loc>
         <priority>0.5</priority>
     </url>
     

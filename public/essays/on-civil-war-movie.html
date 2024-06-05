@@ -15,15 +15,19 @@
     <link rel="alternate" type="application/rss+xml" title="RSS" href="/rss.xml">
     <link rel="stylesheet" href="/assets/style.css">
     
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Arimo:wght@600&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap"
+        rel="stylesheet">
 </head>
 
-<body class="bg-orange-50">
+<body class="bg-[#faf8f0] text-orange-950 font-body">
     <header>
         <!-- <nav itemscope itemtype="http://schema.org/SiteNavigationElement">
             
                 <a  itemprop="url" href="/"><span itemprop="name">Home</span></a>
-            
-                <a  itemprop="url" href="/essays/"><span itemprop="name">Essays</span></a>
             
                 <a  itemprop="url" href="/fiction/"><span itemprop="name">Fiction</span></a>
             
@@ -36,11 +40,18 @@
     </header>
 
     <main>
-<section id="main" class="max-w-prose mx-auto prose">
+<nav id="home_nav" class="flex flex-row-reverse w-full mb-16 px-8 py-4 fixed z-10 top-0">
+  <div id=" nav_img" class="aspect-square max-w-14 p-2 ml-2">
+    <a href="/"><img src="/assets/face-orange-600.svg" class="cursor-pointer"></img></a>
+  </div>
+</nav>
+
+<section id="main" class="max-w-prose mx-auto prose pt-48 pb-24">
   <!-- <section id="main" class="prose prose-lg bg-slate-400"> -->
   <article class="prose">
-    <h1>On *Civil War* and Campus Protests</h1>
-    <p>/some intro/</p>
+    <h1 class="text-orange-600 font-display text-6xl capitalize ">On *Civil War* and Campus Protests</h1>
+    <div id="page_prose_wrapper" class="mx-auto">
+      <p>/some intro/</p>
 <p>As follow the characters on a road trip (very “heart of darkness”) getting deeper into the war zone of the civil war. What garland has done is ___ the fog of war: at first, the audience has no idea who is who. We see soldiers from one faction in hawaiian shirts. Others in full military uniform. Others are just townies with AR-15s.</p>
 <p>The crux of the movie is a scene in which the reporters find themselves ambushed, along with two other soldiers, by an unknown sniper in a farmhouse.</p>
 <p>Joel—the writer—rushes in to interview the two soldiers they find themselves stuck with. Joel, despite his drinking and juvenile horny demeanor, is the academic of the bunch. He’s the one that earlier in the movie was discussing “Portland Maoists” with another militia. He’s the one that’s trying to get to the president to get an interview and understand why he’s done what he’s done. </p>
@@ -63,10 +74,15 @@ Soldier: “Oh, I get it. You’re retarded. You don’t understand a word I say
 <p>So what does this have to do with campus protests?</p>
 <p>For posterity, at the moment there are encampents on unviersity campuses all over the world protesting Israel’s invasion of Gaza. </p>
 
+    </div>
   </article>
 </section>
 
-</main>
-</body>
+<section id="pictures" class="max-w-prose mx-auto pb-48">
+  
+</section>
 
-</html>
+
+<footer id="footer" class="bg-orange-100 sticky h-12">
+  © Sebastián Villarreal Singer
+</footer>

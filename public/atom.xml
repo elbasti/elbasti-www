@@ -7,7 +7,7 @@
     
     <subtitle></subtitle>
     <generator>blades</generator>
-    <updated>2024-05-28T03:49:33Z</updated>
+    <updated>2024-06-04T15:01:32Z</updated>
 
 
     <entry>
@@ -26,22 +26,11 @@
     
 
     <entry>
-        <title>Essays</title>
-        <link rel="alternate" href="/essays/" />
-        <id>/essays</id>
-        <summary></summary>
-        <content></content>
-        <updated>2024-05-24T22:44:57Z</updated>
-    </entry>
-    
-
-    <entry>
         <title>Fiction</title>
         <link rel="alternate" href="/fiction/" />
         <id>/fiction</id>
         <summary></summary>
-        <content><h2>Welcome to fiction</h2>
-</content>
+        <content></content>
         <updated>2024-05-24T22:10:39Z</updated>
     </entry>
     
@@ -52,8 +41,9 @@
         <id>/reading_list</id>
         <summary></summary>
         <content><ul>
-<li>On Mr Truman’s Award</li>
-<li>A Mathematician’s Apology</li>
+<li><a href="/assets/anscombe_truman.pdf" class="font-display text-orange-700 underline">Mr. Truman’s Degree</a> <span class="italic">15 minutes</span><br />
+This is a pamphlet arguing why Harry Truman should not receive an honorary degree from Oxford university on account of his decision in dropping the atomic bomb. Talks about the meaning of murder in war, what things it’s worth protesting, and how to think about slippery slopes. What I find most refreshing is that it avoids much of the shallow “pacifism at all costs” vs “obliteration at all costs” discourse that exists today.</li>
+<li><a href="/assets/a_mathematicians_apology_w_intro.pdf" class="font-display text-orange-700 underline">A Mathematician’s Apology</a> <span class="italic">2 hours</span>.   This…</li>
 <li>You and your research</li>
 </ul>
 </content>
@@ -66,41 +56,8 @@
         <link rel="alternate" href="/poems/" />
         <id>/poems</id>
         <summary></summary>
-        <content><h1>Poems</h1>
-</content>
+        <content></content>
         <updated>2024-05-24T21:46:45Z</updated>
-    </entry>
-    
-
-    <entry>
-        <title>On *Civil War* and Campus Protests</title>
-        <link rel="alternate" href="/essays/on-civil-war-movie.html" />
-        <id>/essays/on-civil-war-movie</id>
-        <summary></summary>
-        <content><p>/some intro/</p>
-<p>As follow the characters on a road trip (very “heart of darkness”) getting deeper into the war zone of the civil war. What garland has done is ___ the fog of war: at first, the audience has no idea who is who. We see soldiers from one faction in hawaiian shirts. Others in full military uniform. Others are just townies with AR-15s.</p>
-<p>The crux of the movie is a scene in which the reporters find themselves ambushed, along with two other soldiers, by an unknown sniper in a farmhouse.</p>
-<p>Joel—the writer—rushes in to interview the two soldiers they find themselves stuck with. Joel, despite his drinking and juvenile horny demeanor, is the academic of the bunch. He’s the one that earlier in the movie was discussing “Portland Maoists” with another militia. He’s the one that’s trying to get to the president to get an interview and understand why he’s done what he’s done. </p>
-<p>Joel believes in politics.</p>
-<p>And so he rushes in to interview the two soldiers.</p>
-<blockquote>
-<p>Joel: “Hey, whats going on?”
-Soldier: “Someone in that house is stuck. We’re stuck.”
-Joel: “Who do you think they are?”
-Soldier: “I have no idea.”
-Joel: “Are you WF? Who is giving you orders?”
-Soldier: “Someone is trying to kill us. We are trying to kill them.”
-Joel: “You don’t know what side they are fighting for?”
-Soldier: “Oh, I get it. You’re retarded. You don’t understand a word I say.”</p>
-</blockquote>
-<p>The soldiers here understand, in a way Joel does not, that war is not about politics. War is about killing.</p>
-<p>And the killing does not have to be organized.</p>
-<p>Later in the trip, in what is by far the scariest part of the movie, they encounter Jesse Plemons, playing a psyschotic warlord in pink sunglasses. We’ve seen his character before. He’s Joseph Kony. He’s <a href="0">this guy</a>. </p>
-<p>What does he believe? We don’t know. He has some private view of what it constitutes to be a “real american”. The reporters don’t know what he stands for either. They try to figure out his politics by asking if the bodies behind the warlord are wearing uniforms. They are not. The deeper the reporters go into the heart of darkness, the more each participant is playing by rules that exist entirely in their own minds.</p>
-<p>So what does this have to do with campus protests?</p>
-<p>For posterity, at the moment there are encampents on unviersity campuses all over the world protesting Israel’s invasion of Gaza. </p>
-</content>
-        <updated>2024-05-04T00:00:00Z</updated>
     </entry>
     
 
@@ -115,44 +72,46 @@ Soldier: “Oh, I get it. You’re retarded. You don’t understand a word I say
 <p>—Lo bueno es que no hay turistas —dijo María Inés—. </p>
 <p>El comentario era innecesario. Ya casi nunca había turistas.</p>
 <p>El pueblo de Tlacotalpan, Veracruz era quizás el único de toda la república que permanecía intacto. Congelado en el tiempo. Las calles amplias y quietas enmarcaban vistas de casas coloniales pintadas de colores hermosos. Parecía postal. Los altos techos coloniales hacían que las personas en los umbrales de los recintos parecieran diminutas. Un pueblo hermoso para enanos veracruzanos. Ni un edificio de concreto. Ni un edificio de bloc.</p>
-<p>—Te acuerdas cuando había perros? —preguntó la tía. 
+<p>—Te acuerdas cuando había perros? —preguntó la tía.<br />
 —Claro —mintió María Inés. —que risa. Perros en este calor.</p>
 <p>La primera ola de destrucción en llegar al istmo fue la industrialización. Los barcos franceses que navegaban río arriba sobre el Papaloapan, cargados de muebles, telas, y otros lujos, dejaron de navegar cuando llegó el ferrocarril a Veracruz.</p>
-<p>En los otros pueblos el comercio de productos franceses fue reemplazado por fábricas y bloc de concreto. Pero en Tlacotalpan, lo único que quedó fue un pueblo casi fantasma que relucía sobre el pantano como la espuma que dejan atrás las aguas en retroceso. Las tiendas de productos de lujo se convirtieron, sin cambiar su inventario, en tiendas de antigüedades.</p>
+<p>En los otros pueblos el comercio de productos franceses fue reemplazado por fábricas y bloc de concreto. Pero a Tlacotalpan no llegó la industrialización. Cuando se fueron los barcos, dejaron atrás un pueblo casi fantasma que relucía sobre el pantano como la espuma que dejan atrás las aguas en retroceso. </p>
+<p>Las tiendas de productos de lujo se convirtieron, sin cambiar su inventario, en tiendas de antigüedades.</p>
 <p>Lo que salvó al pueblo fue el río. Una vez cada ocho años aproximadamente el río crecía bíblicamente, y Tlacotalpan se inundaba. Las aguas trepaban los costados de las casas, dejando no más de metro y medio de estructura sobre el nivel del río. Los pueblerinos se resguardaban sobre los techos convertidos en islas, rodeados de sus objetos más valiosos. Sillas francesas, cuadros, cartas, instrumentos musicales. Cuando por fin se iban las aguas, las casas quedaban llenas de fango y lodo. Era tanto lodo que tardaban semanas en limpiarse. Primero se removía el lodo con palas, y luego escobas, hasta que por fin se podían cepillar los viejos pisos de pasta francesa. Esa era la razón por la cual las casas en Tlacotalpan tenían tan poco dentro. No valía la pena volver a comprar todo. 
 Un lugar que se inunda así no es un lugar donde puede haber ni fábricas ni tiendas Elektra. Por eso el desarrollo llegó a Alvarado, a Córdoba, a Orizaba, y a todos esos otros lugares que por su orografía se salvan de la periódica destrucción del lodo, y no a Tlacotalpan.</p>
 <p>El altavoz de la plaza comenzó a sonar: «El refugio abrirá a las cuatro de la tarde. El refugio abrirá a las cuatro de la tarde. El refugio abrirá…»</p>
-<p>—Sí van a abrir el refugio.
+<p>—Sí van a abrir el refugio.<br />
 —Sí.</p>
 <p>La segunda ola de destrucción fue el turismo. Era una realidad que la república mexicana guardaba en sí lugares de belleza extrema. Belleza que, desafortunadamente, se fotografiaba bien. Antes de concluir la primera cuarta parte del siglo XXI, la mayoría de los lugares hermosos del país habían crecido de manera desmedida a causa del turismo, inundados de bares, de restaurantes, de tiendas de basura <em>New Age</em>. Los pueblos crecían y crecían y las selvas, bosques y desiertos se cubrían de concreto. Así habían caído Izamal, Tepoztlan, Bacalar, y Atlixco. </p>
 <p>Pero Tlacotalpan había nacido a orillas del Papaloapan—no era fácil llegar en carretera. Se encontraba entre poco y nada. Así que se había salvado, por lo menos por un rato.</p>
 <p>—Se cayó la red eléctrica —dijo María Inés. </p>
 <p>El ventilador en el centro del comedor se había quedado sin corriente, y el espeso aire tropical lo alentaba con cada revolución. En el pueblo entero podía apreciarse una monumental tranquilidad. De golpe, había cesado el zumbido de todos los aparatos eléctricos del pueblo. Los compresores de aires y de refrigeradores, que normalmente llenaban la tarde con un constante zumbido de cigarras eléctricas, se encontraban en silencio.</p>
-<p>—Deberíamos irnos.</p>
-<p>—Tenemos tiempo todavía.</p>
+<p>—Deberíamos irnos.<br />
+—Tenemos tiempo todavía.</p>
 <p>María Inés amaba estos tiempos de paz, cuando el pueblo entero se encontraba quieto, y se podían escuchar las pequeñas olas del río chocar contra el muelle. Parecía que ni los moscos volaban del calor.</p>
-<p>Hubo un momento, por ahí del ’25, cuando el atractivo del país había llegado a tal fervor que el turismo rapaz comenzaba a tocar la puerta de Tlacotalpan. Algunos desarrolladores —políticos, por supuesto— habían comenzado a comprar las casonas que daban al río,a juntar lotes, y construir hoteles de lujo, y a rentar sus casas en <em>AirBnB</em>. Parecía que ni la distancia ni la carretera bachuda mantendrían a Tlacotalpan alejado de la mirada de las redes sociales.</p>
-<p>En eso llegó la Ola De Calor de 2027, y la frase <em>temperatura de bulbo mojado</em> se cementó en el léxico colectivo. El cuerpo humano produce, mientras se encuentre con vida, calor. Para enfriarse se cubre con una pequeña capa de agua—sudor—que al evaporarse enfría el cuerpo, de tal manera que el cuerpo se mantiene a una temperatura constante de 37 grados.</p>
+<p>Hubo un momento, por ahí del ’25, cuando el atractivo del país había llegado a tal fervor que el turismo rapaz comenzaba a tocar la puerta de Tlacotalpan. Algunos desarrolladores —políticos, por supuesto— habían comenzado a comprar las casonas que daban al río, a juntar lotes, construir hoteles de lujo, y a rentar sus casas en <em>AirBnB</em>. Parecía que ni la distancia ni la carretera bachuda mantendrían a Tlacotalpan alejado de la mirada de las redes sociales.</p>
+<p>En eso llegó la Ola De Calor de 2027, y la frase <em>temperatura de bulbo mojado</em> se cementó en el léxico colectivo. </p>
+<p>El cuerpo humano produce, mientras se encuentre con vida, calor. Para enfriarse se cubre con una pequeña capa de agua—sudor—que al evaporarse enfría el cuerpo, de tal manera que el cuerpo se mantiene a una temperatura constante de 37 grados.</p>
 <p>Sin embargo, la eficiencia de enfriamiento se reduce entre más húmedo el medio ambiente. En los años cincuentas del siglo pasado, en un esfuerzo para entender las muertes de sus fuerzas armadas en durante la segunda guerra, científicos norteamericanos inventaron el concepto de temperatura de bulbo mojado. El concepto es simple: tapas un termómetro con una tela mojada, y lo colocas a la sombra. El termómetro se enfría a causa de la evaporación, y la temperatura que registra—menor a la del medio ambiente— indica la temperatura mínima a la cual se podría enfriar un ser humano.</p>
 <p>—Que calor.</p>
-<p>Las últimas revoluciones del ventilador empujaban el aire caliente hacia el piso, y María Inés sentía que el aire le aplastaba los pies. El dedo gordo, el segundo dedo, y la tira de plástico verde translúcida que los separaba se habían fusionado. Maria Inés y su tía permanecían estáticas, adheridas a las sillas de plástico del restaurante como cuijas gigantes.</p>
-<p>Cuando la temperatura de bulbo mojado supera los 37 grados, el aire (que a otras temperaturas ayuda a evaporar el sudor y enfriar el cuerpo) se convierte en un donante de calor. El cuerpo se vuelve incapaz de enfriarse. La muerte es segura en cuestión de horas.</p>
+<p>Las últimas revoluciones del ventilador empujaban el aire caliente hacia el piso, y María Inés sentía que el aire le aplastaba los pies. El dedo gordo, el segundo dedo, y la chancla de plástico verde que los separaba se habían fusionado. Maria Inés y su tía permanecían estáticas, adheridas a las sillas de plástico del restaurante como cuijas gigantes.</p>
+<p>Cuando la temperatura de bulbo mojado supera los 37 grados, el aire, (que a otras temperaturas ayuda a evaporar el sudor y enfriar el cuerpo) se convierte en un donante de calor. El cuerpo se vuelve incapaz de enfriarse. La muerte es segura en cuestión de horas.</p>
 <p>El récord mundial de temperatura de bulbo mojado lo tuvo por muchos años la ciudad de Dharan, Arabia Saudita, que registró en el 2003 temperaturas de bulbo mojado de 35 grados. Un record altísimo. Intolerable, quizás. Pero sobrevivible.</p>
 <p>Hasta la Ola de Calor del 2027. Durante la segunda semana de julio de ese año, se registró en el istmo del país una ola de calor con temperaturas de 42 grados centígrados y 92% de humedad—una temperatura de bulbo mojado de 40.79 grados.</p>
 <p>La gente dichosa de tener aire acondicionado se resguardó en sus casas, y algunos de los menos afortunados, en centros comerciales. Pero la demanda sobre la red eléctrica—causada, obviamente, por el uso simultáneo de todos los aires acondicionados de la región—resultó en que durante la noche del martes 6 colapsara la red. </p>
-<p>Para el jueves 8, habían muerto aproximadamente un millón de habitantes en toda la región. En tan solo Villahermosa se decía que el numero superaba los quinientos mil. En algunos pueblos, la taza de mortalidad superaba el 90%. </p>
+<p>Para el jueves 8, habían muerto aproximadamente un millón de habitantes en toda la región. En tan solo Villahermosa se decía que el numero superaba los quinientos mil. En algunos pueblos, la taza de mortalidad superaba el 96%. </p>
 <p>El gobierno había dicho que era un evento único en la historia, que era imposible que se repitiera. Pero para los sobrevivientes era obvio que no había sido un evento tan peculiar—no estamos hablando de un asteroide, o una pandemia. Estamos hablando de calor y de humedad en el istmo de Tehuantepec.</p>
 <p>El éxodo fue masivo. Los sobrevivientes escaparon al centro del país, a las montañas. Lejos del calor, lejos de la humedad. Veracruz, Tabasco, y el sur de Campeche quedaron prácticamente vacíos.</p>
 <p>En Tlacotalpan, se estima que durante el pico de la ola de calor la temperatura de bulbo mojado había superado los 40.5 grados. Sin embargo no murió ni un solo habitante del pueblo. </p>
 <p>María Inés recordaba bien esa tarde. La gente confundida salía de sus casas buscando fresco. ¿Hacía más calor adentro o afuera? ¿Alguien tenía aire? En eso, alguna persona—no se recuerda quién— caminó al muelle y se sumergió en el río. </p>
 <p>Poco a poco, por ahí de la puesta del sol del día martes, los habitantes de Tlacotalpan comenzaron a salir de sus casas, y, como si fuera un gran bautizo colectivo, se adentraron en el fango y se sumergieron en el río.</p>
-<p>Los rayos del ocaso, oblicuos, se dispersaban entre la atmósfera húmeda y pesada iluminando de rojo carmesí los techos de las casas. María Inés pensaba que el pueblo entero estaba en llamas. Que el aire caliente le había prendido fuego.</p>
+<p>Los rayos del ocaso, oblicuos, se dispersaban entre la atmósfera húmeda y pesada, iluminando de rojo carmesí los techos de las casas. María Inés pensaba que el pueblo entero estaba en llamas. Que el aire caliente le había prendido fuego.</p>
 <p>Los habitantes se miraban desconcertados y solemnes, las caras cubiertas de pelo mojado, empapado de sudor y de agua de río. Era tal la humedad que la superficie del río se desintegraba y parecía que las aguas y el aire eran uno mismo.</p>
 <p>Poco después, cayó la noche. No había un solo foco prendido en todo el sureste del país. No había luna, y María Inés aprendió que se podía ver con tan solo la iluminación de las estrellas. La vía láctea se extendía de un horizonte al otro, y más aún, se reflejaba sobre el río, y parecía que el pueblo entero de Tlacotalpan nadaba entre las estrellas, y que el cielo y el río eran uno mismo, y cada estrella era la escama de un gran pez.</p>
 <p>La mañana siguiente, los pobladores salieron del río, y si bien nadie dijo nada, ninguno fue jamás el mismo.</p>
 <p>En los meses siguientes, con fin de interrumpir el éxodo causado por el calor, el gobierno de la república en conjunto con la iniciativa privada crearon el Programa de Refugios Caloríficos. Enormes ballenas de acero, con aire acondicionado y una instalación eléctrica solar autosuficiente, potenciada por baterías que podían mantener frío el refugio durante 72 horas, dicen.</p>
-<p>—Deberíamos irnos —dijo su tía.
-—Sí, vamos —contestó Maria Inés.</p>
+<p>El esfuerzo fue en vano. La gente no regresó a los pueblos. Los Refugios, disque de emergencia, se utilizaban cada vez más y más por aquella minoría de gente que decidió, por alguan razón, permanecer en el pantano.</p>
+<p>—Deberíamos irnos —dijo la tía de Maria Inés.</p>
 <p>Maria Inés sabía que no tenía futuro en Tlacotalpan. Pero le era imposible abandonar el río.</p>
 </content>
         <updated>2024-05-05T00:00:00Z</updated>
@@ -164,10 +123,230 @@ Un lugar que se inunda así no es un lugar donde puede haber ni fábricas ni tie
         <link rel="alternate" href="/poems/pinta-permanente.html" />
         <id>/poems/pinta-permanente</id>
         <summary></summary>
-        <content><p>I am a page</p>
-<p>About going on permanent vacation.</p>
+        <content><p>Me quiero ir de pinta permanente.</p>
+<p>Quiero pasar el día en el cine,<br />
+en matinées, viendo películas viejas,<br />
+en salas casí vacías, espolvoreadas<br />
+o de muy jóvenes o de muy viejos.</p>
+<p>Quiero ir caminando a todo lados,<br />
+y aún así, llegar temprano, y ver pasar<br />
+a la gente apresurada.</p>
+<p>Quiero llegar empapado.<br />
+¿Te agarró el aguacero? ¿Cuál aguacero?</p>
+<p>Quiero que se me escurran los años<br />
+entre los dedos, como las palomitas<br />
+que me como a puños.</p>
+<p>Quiero pasar tanto tiempo mirando<br />
+una fuente, o una flor, o un ladrillo<br />
+que me consideren parte del paisaje.</p>
+<p>Quiero olvidar la fecha,<br />
+olvidar los nombres de los meses,<br />
+olvidar mi nombre.</p>
+<p>Quiero que, si algún día abran mi tumba,<br />
+la encuentren vacía.</p>
 </content>
         <updated>2024-03-17T00:00:00Z</updated>
+    </entry>
+    
+
+    <entry>
+        <title>Secretos</title>
+        <link rel="alternate" href="/poems/secretos.html" />
+        <id>/poems/secretos</id>
+        <summary></summary>
+        <content><p>Amo mis lugares secretos<br />
+y ver a las parejas<br />
+que se dan un faje en secreto</p>
+<p>y a los jóvenes echados<br />
+leyendo sus libro secretos</p>
+<p>y a los papás con sus hijos<br />
+corriendo, en secreto, después de la escuela.</p>
+<p>Al viejito de sombrero,<br />
+bailando danzón, en secreto.</p>
+<p>Y al afilador, en su bici,<br />
+perdiendo el tiempo en secreto.</p>
+<p>Amo esos lugares secretos<br />
+que solo conozco yo.</p>
+</content>
+        <updated>2024-03-01T00:00:00Z</updated>
+    </entry>
+    
+
+    <entry>
+        <title>Retírenme de circulación</title>
+        <link rel="alternate" href="/poems/retirenme.html" />
+        <id>/poems/retirenme</id>
+        <summary></summary>
+        <content><p>Retírenme de circulación.<br />
+Ya no quiero comerciar.</p>
+<p>Adviertan,<br />
+como cuando los viejos pesos,<br />
+adviertan:</p>
+<p>¡Tienen seis meses para hacer el cambio!<br />
+¡Luego ya no van a valer nada!</p>
+<p>Se respetará un tipo de cambio de<br />
+mil a uno, y luego? luego de mil<br />
+a nada.</p>
+<br>  
+<p>Habrá un periodo de confusión<br />
+y se revelará<br />
+que el valor de las cosas<br />
+es histeria colectiva.</p>
+<br>  
+<p>Abandónenme.<br />
+Abandónenme en un cajón,<br />
+bolsita de monedas inútiles.</p>
+<p>Algún día van a ser de colección.<br />
+Recuerdos de una abuela<br />
+que nadie escribió.</p>
+<p>Que si un pingüino costaba 5 mil.<br />
+Que si un pariente había nacido en Puebla.</p>
+<p>Y un tío con la ficción devastadora de que<br />
+un pingüino no podía costar 5 mil por qué<br />
+en esa época no había pingüinos.</p>
+<p>Contemplen.<br />
+Contemplen, por favor,<br />
+contemplen tirarme a la basura.</p>
+<p>Decidan no hacerlo:<br />
+Las monedas no se tiran,<br />
+aunque ya no valgan nada.</p>
+</content>
+        <updated>2024-01-03T00:00:00Z</updated>
+    </entry>
+    
+
+    <entry>
+        <title>Una Pareja En Dormimundo</title>
+        <link rel="alternate" href="/poems/una-pareja-en-dormimundo.html" />
+        <id>/poems/una-pareja-en-dormimundo</id>
+        <summary></summary>
+        <content><p>Se avientan<br />
+sobre el colchón.</p>
+<p>Él de traje<br />
+y ella<br />
+de pantalón.</p>
+<p>Es matrimonial,<br />
+sus hombros tocan,<br />
+ríen</p>
+<p>con el optimismo<br />
+y la ilusión<br />
+de quién amuebla un departamento<br />
+por primera vez.</p>
+<p>“Esta podría ser nuestra<br />
+cama” se deben decir 
+el uno al otro.</p>
+<p>¿Cuántas promesas<br />
+contiene un colchón?<br />
+¿Cuántos recuerdos?</p>
+<p>La pareja ignora por<br />
+completo el gentío<br />
+formado del otro lado<br />
+del ventanal<br />
+que da a la banqueta.</p>
+<p>El gentío también está<br />
+saliendo del trabajo,<br />
+pero están esperando el<br />
+camión, no están</p>
+<p>comprando un colchón,<br />
+no están<br />
+empezando una vida.</p>
+<p>Yo creo que él recuerda,<br />
+cuando era niño,<br />
+cómo jugaba en cama de<br />
+sus papás</p>
+<p>y siente el embarazo<br />
+que contiene una compra<br />
+como ésta.</p>
+<p>Yo creo que ella piensa<br />
+que hay cierto romance<br />
+en el tamaño matrimonial.</p>
+<p>Está ahí en el nombre:<br />
+ma-tri-mo-nial,<br />
+es un colchón para dos,<br />
+y es perfecto,<br />
+pues son dos.</p>
+<p>“Nos va a dar calor” dice.<br />
+“Pero que lindo estar<br />
+tan cerca”, piensa.</p>
+<p>Calan el tamaño, la firmeza.<br />
+Él empuja el colchón con las manos,<br />
+siente como los resortes<br />
+desisten ante el peso. Supongo</p>
+<p>que el vendedor (también<br />
+trajeado) les presume<br />
+que es un Sealy,<br />
+“tope de gama” dice,<br />
+“no hay mejor colchón<br />
+en el mercado”.</p>
+<p>Ella quiere ahorrar<br />
+pero esas palabras<br />
+lo convencen.</p>
+<p>Ese domingo,<br />
+comiendo con sus padres<br />
+les comenta que ya por fin<br />
+compraron un colchón.</p>
+<p>“Es un Sealy” les repite<br />
+con el orgullo de aquella persona<br />
+que siente que su vida<br />
+va por buen camino.</p>
+<p>“No hay mejor colchón<br />
+en el mercado”<br />
+y su padre asienta con la cabeza.</p>
+<p>O bueno. Eso<br />
+pienso yo<br />
+mientras los espiaba<br />
+por la ventana,<br />
+esperando el autobús<br />
+que me lleva a casa.</p>
+</content>
+        <updated>2023-08-01T00:00:00Z</updated>
+    </entry>
+    
+
+    <entry>
+        <title>Presumido</title>
+        <link rel="alternate" href="/poems/presumido.html" />
+        <id>/poems/presumido</id>
+        <summary></summary>
+        <content><p>Me fui a comer en bicicleta<br />
+en una de esas tardes</p>
+<p>cuando hace calor al sol<br />
+y hace frío a la sombra<br />
+y la única manera de estar cómodo<br />
+es estando en movimiento.</p>
+<p>Y voy por la ciclopista<br />
+de avenida chapultepec<br />
+sol sombra sol sombra<br />
+sol sol sol sombra</p>
+<p>así si, pienso,<br />
+que rico, que deleite,<br />
+que delicia</p>
+<p>y tengo esa tonadita en la cabeza<br />
+<em>que delicia suma</em><br />
+<em>ser pez y nadar</em><br />
+<em>si estuviera hecho el mar</em><br />
+<em>de cerveza moctezuma</em></p>
+<p>pero no, que delicia ir en bicicleta<br />
+en una tarde como esta<br />
+y decido, no se por que,<br />
+no suelo hacerlo, ni que tuviera<br />
+9 años, pero levanto<br />
+las manos del manubrio,<br />
+me siento recto, erguido,<br />
+saco el pecho, paveando</p>
+<p>y siento que voy rápido,<br />
+muy rápido,<br />
+pero no es eso, es que los coches<br />
+van lento, o más bien no van.</p>
+<p>Presumo el metro veinte<br />
+que tengo de cada lado<br />
+Presumo que voy sin manos<br />
+Presumo mi velocidad</p>
+<p>(que a decir verdad<br />
+no es tan rápida,<br />
+pero tampoco voy tan lejos)</p>
+</content>
+        <updated>2021-11-03T00:00:00Z</updated>
     </entry>
     
 

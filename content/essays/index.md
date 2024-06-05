@@ -1,3 +1,4 @@
 +++
 title = "Essays"
+hidden = true
 +++

@@ -7,7 +7,7 @@
         <description></description>
         <ttl>1440</ttl>
         <generator>blades</generator>
-        <pubDate>Tue, 28 May 2024 03:49:33 GMT</pubDate>
+        <pubDate>Tue, 04 Jun 2024 15:01:32 GMT</pubDate>
         
     
     
@@ -16,14 +16,6 @@
             <link>/</link>
             <description></description>
             <pubDate>Fri, 24 May 2024 21:46:45 GMT</pubDate>
-        </item>
-        
-    
-        <item>
-            <title>Essays</title>
-            <link>/essays/</link>
-            <description></description>
-            <pubDate>Fri, 24 May 2024 22:44:57 GMT</pubDate>
         </item>
         
     
@@ -52,14 +44,6 @@
         
     
         <item>
-            <title>On *Civil War* and Campus Protests</title>
-            <link>/essays/on-civil-war-movie.html</link>
-            <description></description>
-            <pubDate>Sat, 04 May 2024 00:00:00 GMT</pubDate>
-        </item>
-        
-    
-        <item>
             <title>La Perla del Papaloapan</title>
             <link>/fiction/la-perla-del-papaloapan.html</link>
             <description></description>
@@ -72,6 +56,38 @@
             <link>/poems/pinta-permanente.html</link>
             <description></description>
             <pubDate>Sun, 17 Mar 2024 00:00:00 GMT</pubDate>
+        </item>
+        
+    
+        <item>
+            <title>Secretos</title>
+            <link>/poems/secretos.html</link>
+            <description></description>
+            <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+        </item>
+        
+    
+        <item>
+            <title>Retírenme de circulación</title>
+            <link>/poems/retirenme.html</link>
+            <description></description>
+            <pubDate>Wed, 03 Jan 2024 00:00:00 GMT</pubDate>
+        </item>
+        
+    
+        <item>
+            <title>Una Pareja En Dormimundo</title>
+            <link>/poems/una-pareja-en-dormimundo.html</link>
+            <description></description>
+            <pubDate>Tue, 01 Aug 2023 00:00:00 GMT</pubDate>
+        </item>
+        
+    
+        <item>
+            <title>Presumido</title>
+            <link>/poems/presumido.html</link>
+            <description></description>
+            <pubDate>Wed, 03 Nov 2021 00:00:00 GMT</pubDate>
         </item>
         
     

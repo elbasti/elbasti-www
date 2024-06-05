@@ -15,15 +15,19 @@
     <link rel="alternate" type="application/rss+xml" title="RSS" href="/rss.xml">
     <link rel="stylesheet" href="/assets/style.css">
     
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Arimo:wght@600&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap"
+        rel="stylesheet">
 </head>
 
-<body class="bg-orange-50">
+<body class="bg-[#faf8f0] text-orange-950 font-body">
     <header>
         <!-- <nav itemscope itemtype="http://schema.org/SiteNavigationElement">
             
                 <a  itemprop="url" href="/"><span itemprop="name">Home</span></a>
-            
-                <a  itemprop="url" href="/essays/"><span itemprop="name">Essays</span></a>
             
                 <a  itemprop="url" href="/fiction/"><span itemprop="name">Fiction</span></a>
             
@@ -36,17 +40,48 @@
     </header>
 
     <main>
-<section id="main" class="max-w-prose mx-auto prose">
+<nav id="home_nav" class="flex flex-row-reverse w-full mb-16 px-8 py-4 fixed z-10 top-0">
+  <div id=" nav_img" class="aspect-square max-w-14 p-2 ml-2">
+    <a href="/"><img src="/assets/face-orange-600.svg" class="cursor-pointer"></img></a>
+  </div>
+</nav>
+
+<section id="main" class="max-w-prose mx-auto prose pt-48 pb-24">
   <!-- <section id="main" class="prose prose-lg bg-slate-400"> -->
   <article class="prose">
-    <h1>Pinta Permanente</h1>
-    <p>I am a page</p>
-<p>About going on permanent vacation.</p>
+    <h1 class="text-orange-600 font-display text-6xl capitalize ">Pinta Permanente</h1>
+    <div id="page_prose_wrapper" class="mx-auto">
+      <p>Me quiero ir de pinta permanente.</p>
+<p>Quiero pasar el día en el cine,<br />
+en matinées, viendo películas viejas,<br />
+en salas casí vacías, espolvoreadas<br />
+o de muy jóvenes o de muy viejos.</p>
+<p>Quiero ir caminando a todo lados,<br />
+y aún así, llegar temprano, y ver pasar<br />
+a la gente apresurada.</p>
+<p>Quiero llegar empapado.<br />
+¿Te agarró el aguacero? ¿Cuál aguacero?</p>
+<p>Quiero que se me escurran los años<br />
+entre los dedos, como las palomitas<br />
+que me como a puños.</p>
+<p>Quiero pasar tanto tiempo mirando<br />
+una fuente, o una flor, o un ladrillo<br />
+que me consideren parte del paisaje.</p>
+<p>Quiero olvidar la fecha,<br />
+olvidar los nombres de los meses,<br />
+olvidar mi nombre.</p>
+<p>Quiero que, si algún día abran mi tumba,<br />
+la encuentren vacía.</p>
 
+    </div>
   </article>
 </section>
 
-</main>
-</body>
+<section id="pictures" class="max-w-prose mx-auto pb-48">
+  
+</section>
 
-</html>
+
+<footer id="footer" class="bg-orange-100 sticky h-12">
+  © Sebastián Villarreal Singer
+</footer>

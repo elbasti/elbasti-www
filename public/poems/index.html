@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -16,15 +15,19 @@
     <link rel="alternate" type="application/rss+xml" title="RSS" href="/rss.xml">
     <link rel="stylesheet" href="/assets/style.css">
     
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Arimo:wght@600&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap"
+        rel="stylesheet">
 </head>
 
-<body class="bg-orange-50">
+<body class="bg-[#faf8f0] text-orange-950 font-body">
     <header>
         <!-- <nav itemscope itemtype="http://schema.org/SiteNavigationElement">
             
                 <a  itemprop="url" href="/"><span itemprop="name">Home</span></a>
-            
-                <a  itemprop="url" href="/essays/"><span itemprop="name">Essays</span></a>
             
                 <a  itemprop="url" href="/fiction/"><span itemprop="name">Fiction</span></a>
             
@@ -37,20 +40,42 @@
     </header>
 
     <main>
+<div id="home_container" class="min-h-screen flex flex-col justify-start">
 
-<h1>Poems</h1>
+  <nav id="home_nav" class="flex flex-row-reverse w-full mb-16 px-8 py-4 fixed z-10 top-0">
+  <div id=" nav_img" class="aspect-square max-w-14 p-2 ml-2">
+    <a href="/"><img src="/assets/face-orange-600.svg" class="cursor-pointer"></img></a>
+  </div>
+</nav>
 
-<h3>My pages are:</h3>
-<ul>
-  
-  <a href="/poems/pinta-permanente.html">Pinta Permanente</a>
-  
-</ul>
-
-<h3>My subsections are:</h3>
-<ul>
-  
-</ul>
+  <div id="content" class="flex-grow mx-auto py-48">
+    <h1 class="text-orange-600 font-display text-6xl mb-8">Poems</h1>
+    <ul>
+      
+      <li class="mb-2"><a href="/poems/pinta-permanente.html"
+          class="underline text-orange-700 font-display visited:text-orange-950 capitalize">Pinta Permanente</a></li>
+      
+      <li class="mb-2"><a href="/poems/secretos.html"
+          class="underline text-orange-700 font-display visited:text-orange-950 capitalize">Secretos</a></li>
+      
+      <li class="mb-2"><a href="/poems/retirenme.html"
+          class="underline text-orange-700 font-display visited:text-orange-950 capitalize">Retírenme de circulación</a></li>
+      
+      <li class="mb-2"><a href="/poems/una-pareja-en-dormimundo.html"
+          class="underline text-orange-700 font-display visited:text-orange-950 capitalize">Una Pareja En Dormimundo</a></li>
+      
+      <li class="mb-2"><a href="/poems/presumido.html"
+          class="underline text-orange-700 font-display visited:text-orange-950 capitalize">Presumido</a></li>
+      
+    </ul>
+    <div id="content__content" class="max-w-2xl prose">
+      
+    </div>
+  </div>
+  <footer id="footer" class="bg-orange-100 sticky h-12">
+  © Sebastián Villarreal Singer
+</footer>
+</div>
 
 </main>
 </body>

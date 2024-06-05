@@ -1,21 +1,60 @@
 {{>head.html}}
 
-<section class="container mx-auto columns-2 ">
-  <div class="bg-slate-400 text-center w-full break-after-column">
-    <h1 class="text-3xl">Sebastian Villarreal Singer</h1>
-    <p>Human being living in Mexico City.</p>
-    <p>I enjoy street food, fintech, and literature.</p>
-    <p>I made this website because I'm trying to write more and needed a place for my stuff.</p>
+<div id="home_container" class="min-h-screen flex flex-col justify-start">
+  {{>nav.html}}
+
+  <div id="content" class="max-w-4xl mx-auto flex flex-col flex-wrap justify-start items-start flex-grow py-48">
+    <div id="content__hero" class="w-2/3">
+      <img id="content__hero__img" src="/assets/face-orange-600.svg"
+        class="aspect-square max-w-48 text-justify mx-auto mb-8"></img>
+      <h1 id="content__hero__title class=" class="text-4xl mb-10 text-orange-600 text-center font-display">
+        Sebastián Villarreal Singer
+      </h1>
+    </div>
+
+    <div id="content__row" class="flex flex-row items-center justify-between flex-grow-0">
+      <div id="content__text" class="w-2/3">
+        <div class="mx-auto text-justify">
+          <p class="mb-4">I worked for 15 or so years (wtf) in fintech, startups, and stuff like that, although I'm
+            currently hanging out working on other things.</p>
+
+          <p class="mb-4">I made this website because I'm trying to write more and
+            needed
+            a
+            place for my stuff.</p>
+
+
+          <p class="mb-4">The drawing on this page is a portrait of me made by my daughter, Penny, when she was 2. <span
+              class="italic">That guy</span> looks
+            kind of sad but I'm generally a pretty happy guy!</p>
+
+          <p class="mb-4">I'm Mexican, so a lot of the writing here&mdash;especially the creative stuff&mdash;is in
+            Spanish.
+          </p>
+
+          <p class="mb-4">
+            Email: <a href="mailto:sebastian@elbasti.com" class="underline">sebastian@elbasti.com</a>
+            <br>
+            Twitter: <a href="twitter.com/eblasti" class="underline">@elbasti</a>
+          </p>
+        </div>
+
+
+      </div>
+      <div id="content__menu" class="flex-initial w-1/3 text-center">
+        <ul class="font-display text-orange-600 text-lg">
+          {{#subsections}}
+          <li><a href="{{permalink}}">{{title}}</a></li>
+          {{/subsections}}
+        </ul>
+      </div>
+    </div>
+
   </div>
+  <!-- {{>foot.html}} -->
+</div>
 
-  <div class="bg-slate-200 text-center w-full break-inside-avoid-column">
-    <ul class="break-inside-avoid-column">
-      {{#subsections}}
-      <li><a href="{{permalink}}">{{title}}</a></li>
-      {{/subsections}}
-    </ul>
-  </div>
-</section>
+</main>
+</body>
 
-
-{{>foot.html}}
+</html>
