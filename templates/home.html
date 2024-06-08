@@ -1,21 +1,21 @@
 {{>head.html}}
 
-<div id="home_container" class="min-h-screen flex flex-col justify-start">
+<div id="home_container" class="flex flex-col justify-start min-h-screen">
   {{>nav.html}}
 
-  <div id="content" class="max-w-4xl mx-auto flex flex-col flex-wrap justify-start items-start flex-grow py-48">
-    <div id="content__hero" class="w-2/3">
+  <div id="content"
+    class="flex flex-col flex-wrap items-start justify-start flex-grow max-w-4xl py-24 mx-auto sm:py-48">
+    <div id="content__hero" class="mx-auto sm:w-2/3 sm:mx-0">
       <img id="content__hero__img" src="/assets/face-orange-600.svg"
-        class="aspect-square max-w-48 text-justify mx-auto mb-8"></img>
-      <h1 id="content__hero__title class=" class="text-4xl mb-10 text-orange-600 text-center font-display">
-        Sebastián Villarreal Singer
-      </h1>
+        class="mx-auto mb-8 text-justify aspect-square max-w-48"></img>
+      <h1 id="content__hero__title class=" class="mb-10 text-4xl text-center text-orange-600 font-display">
+        Sebastián <br class="sm:hidden">Villarreal Singer </h1>
     </div>
 
-    <div id="content__row" class="flex flex-row items-center justify-between flex-grow-0">
-      <div id="content__text" class="w-2/3">
+    <div id="content__row" class="flex flex-col items-center justify-between flex-grow-0 sm:flex-row">
+      <div id="content__text" class="px-5 sm:w-2/3">
         <div class="mx-auto text-justify">
-          <p class="mb-4">I worked for 15 or so years (wtf) in fintech, startups, and stuff like that, although I'm
+          <p class="mb-4">I worked for 15 or so years (wtf) in fintech and startups, and I'm
             currently hanging out working on other things.</p>
 
           <p class="mb-4">I made this website because I'm trying to write more and
@@ -41,8 +41,8 @@
 
 
       </div>
-      <div id="content__menu" class="flex-initial w-1/3 text-center">
-        <ul class="font-display text-orange-600 text-lg">
+      <div id="content__menu" class="flex-initial mt-6 text-center sm:w-1/3 sm:mt-0">
+        <ul class="text-lg text-orange-600 font-display">
           {{#subsections}}
           <li><a href="{{permalink}}">{{title}}</a></li>
           {{/subsections}}

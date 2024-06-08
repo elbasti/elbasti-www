@@ -2,7 +2,11 @@
 const plugin = require('tailwindcss/plugin')
 
 module.exports = {
-  content: ["./templates/*.{html,js}"],
+  content: [
+    "./templates/*.{html,js}",
+    "./content/**/*.{md}",
+    "./public/**/*.{html,js}"
+  ],
   theme: {
     fontFamily: {
       'display': ['Arimo', 'sans-serif'],

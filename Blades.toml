@@ -1,8 +1,12 @@
-# title = "elbasti.com"
-# # description = ""
+title = "elbasti.com"
+
+sitemap = true
+rss = true
+atom = true
+# description = ""
 # # keywords = ""
 # # image = ""
 # # theme = ""
 
 # [author]
-# name = "Sebastian Villarreal"
+# name = "Sebastian Villarreal Singer"

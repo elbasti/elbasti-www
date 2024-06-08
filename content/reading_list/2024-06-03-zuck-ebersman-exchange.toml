@@ -4,11 +4,7 @@ date = 2024-06-03
 
 hidden = true
 
-content = """
-Put your *possibly markdowned* content here.
-"""
-
-gallery = true
+gallery = false
 
 [[pictures]]
 file = "assets/zuck_exchange/1.jpg"

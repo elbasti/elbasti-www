@@ -1,20 +1,32 @@
 {{>head.html}}
 {{>nav.html}}
 
-<section id="main" class="max-w-prose mx-auto prose pt-48 pb-24">
+<section id="main" class="pt-48 pb-24 mx-auto prose max-w-prose">
   <!-- <section id="main" class="prose prose-lg bg-slate-400"> -->
   <article class="prose">
-    <h1 class="text-orange-600 font-display text-6xl capitalize ">{{title}}</h1>
+    <h1 class="text-6xl text-orange-600 capitalize font-display ">{{title}}</h1>
     <div id="page_prose_wrapper" class="mx-auto">
       {{content}}
     </div>
   </article>
 </section>
 
-<section id="pictures" class="max-w-prose mx-auto pb-48">
+<section id="pictures" class="mx-auto max-w-prose">
   {{#pictures}}
   <img src=" /{{file}}" class="max-w-2xl mb-24"></img>
   {{/pictures}}
+</section>
+
+<!-- path: {{path}}
+slug: {{slug}}
+<section id="local_nav"
+  class="flex flex-col items-start justify-start pt-4 pb-48 mx-auto uppercase border-t border-orange-200 border-solid max-w-prose font-display opacity-80">
+  {{#parent}} <div><a href="{{permalink}}">Back to {{title}} path: {{path}} slug: {{slug}}</a></div>{{/parent}}
+  <div class="flex flex-row items-start justify-between w-full flex-nowrap">
+    {{#previous}} <div class="flex-grow"><a href="{{permalink}}">Previous: {{title}}</a></div>{{/previous}}
+    {{#next}} <div class="flex-grow-0"><a href="{{permalink}}">Next: {{title}}</a></div>{{/next}}
+  </div> -->
+
 </section>
 
 
