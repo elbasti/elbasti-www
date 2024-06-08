@@ -3,6 +3,8 @@ title = "elbasti.com"
 sitemap = true
 rss = true
 atom = true
+
+output_dir = "docs"
 # description = ""
 # # keywords = ""
 # # image = ""
