@@ -1,14 +1,14 @@
 {{>head.html}}
-<div id="home_container" class="min-h-screen flex flex-col justify-start">
+<div id="home_container" class="flex flex-col justify-start min-h-screen">
 
   {{>nav.html}}
 
-  <div id="content" class="flex-grow mx-auto py-48">
-    <h1 class="text-orange-600 font-display text-6xl mb-8">{{title}}</h1>
+  <div id="content" class="flex-grow py-48 mx-auto">
+    <h1 class="px-4 mb-8 text-6xl text-orange-600 font-display sm:px-0">{{title}}</h1>
     <ul>
       {{#pages}}
       <li class="mb-2"><a href="{{permalink}}"
-          class="underline text-orange-700 font-display visited:text-orange-950 capitalize">{{title}}</a></li>
+          class="text-orange-700 underline capitalize font-display visited:text-orange-950">{{title}}</a></li>
       {{/pages}}
     </ul>
     <div id="content__content" class="max-w-2xl prose">

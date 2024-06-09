@@ -2,9 +2,9 @@
 title = "Reading List"
 +++
 
-<div class="not-prose">
+<div class="px-4 not-prose sm:px-0">
 <ul>
-<li class="mb-5">
+<li class="mb-8">
   <a href="/assets/anscombe_truman.pdf" class="text-orange-700 underline capitalize font-display">
     Mr. Truman's Degree</a> 
   <span class="ml-1 text-xs font-bold uppercase font-display">
@@ -14,7 +14,7 @@ title = "Reading List"
   This is a pamphlet arguing Truman should not receive an honorary degree from Oxford on account of his decision to drop the atomic bomb. Talks about the meaning of murder in war, what things are worth protesting, and how to think about slippery slopes.</p>
   <p>What I find most refreshing is that it avoids much of the shallow "pacifism at all costs" vs "obliteration at all costs" discourse that exists today. There's also a couple predictions that she says are far-fetched that have nonetheless become frighteningly true.</p>
 
-<li class="mb-5">
+<li class="mb-8">
 <a href="/assets/a_mathematicians_apology_w_intro.pdf" class="text-orange-700 underline capitalize font-display">
   A Mathematician's Apology</a> 
   <span class="ml-1 text-xs font-bold uppercase font-display">
@@ -25,7 +25,7 @@ title = "Reading List"
   <p>The version I posted has a delightful foreward that describes G.H. Hardy's relationship with Ramanujan.</p>
 </li>
 
-<li class="mb-5">
+<li class="mb-8">
   <a href="/reading_list/zuck-ebersman-exchange.html" class="text-orange-700 underline capitalize font-display">
   Zuckerberg emails David Ebersman on buying Instagram</a>
   <p class="mb-2">
@@ -34,7 +34,7 @@ title = "Reading List"
   <p>And Zuck goes ahead and does it anyway. His rationale, "there are network effects around social products and a finite number of different social mechanics to invent" is just pure insight.</p>
 </li>
 
-<li class="mb-5">
+<li class="mb-8">
   <a href="/assets/hamming_you_and_your_research.pdf" class="text-orange-700 underline capitalize font-display">
   You and your research</a>
   <span class="ml-1 text-xs font-bold uppercase font-display">
@@ -46,7 +46,7 @@ title = "Reading List"
 
 
 </li>
-<li class="mb-5">
+<li class="mb-8">
   <a href="https://www.evanmiller.org/start-ups-and-emotional-debt.html" class="text-orange-700 underline capitalize font-display">
   Start-ups and Emotional Debt</a>
   <span class="ml-1 text-xs font-bold uppercase font-display">
