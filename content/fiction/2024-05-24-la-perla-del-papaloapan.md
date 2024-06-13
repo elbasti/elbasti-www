@@ -4,6 +4,7 @@ slug = "la-perla-del-papaloapan"
 date = 2024-05-05
 +++
 
+
 ​​—Dicen que van a abrir el refugio —dijo María Inés—. Va a ser la segunda vez este año.
 
 —Espero que no —dijo su tía. 
@@ -92,5 +93,8 @@ El esfuerzo fue en vano. La gente no regresó a los pueblos. Los Refugios, disqu
 
 —Deberíamos irnos —dijo la tía de Maria Inés.
 
-Maria Inés sabía que no tenía futuro en Tlacotalpan. Pero le era imposible abandonar el río.
+Maria Inés sabía que no tenía futuro en Tlacotalpan. Pero le era imposible abandonar el río.  
+
+***
+_Gracias a Rebeca Leal Singer por sus comentarios._
 
