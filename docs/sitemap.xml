@@ -4,16 +4,22 @@
         <loc>/</loc>
         <priority>0.5</priority>
     </url><url>
-        <loc>/fiction/</loc>
-        <priority>0.5</priority>
-    </url><url>
         <loc>/reading_list/</loc>
         <priority>0.5</priority>
     </url><url>
         <loc>/poems/</loc>
         <priority>0.5</priority>
     </url><url>
+        <loc>/fiction/</loc>
+        <priority>0.5</priority>
+    </url><url>
+        <loc>/content/</loc>
+        <priority>0.5</priority>
+    </url><url>
         <loc>/fiction/la-perla-del-papaloapan.html</loc>
+        <priority>0.5</priority>
+    </url><url>
+        <loc>/poems/ash.html</loc>
         <priority>0.5</priority>
     </url><url>
         <loc>/poems/pinta-permanente.html</loc>

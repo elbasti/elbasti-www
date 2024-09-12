@@ -7,7 +7,7 @@
     
     <subtitle></subtitle>
     <generator>blades</generator>
-    <updated>2024-06-13T19:58:20Z</updated>
+    <updated>2024-09-12T02:09:17Z</updated>
 
 
     <entry>
@@ -21,17 +21,7 @@
     <li>Reading list</li>
     <li>Poems</li>
 </ul></content>
-        <updated>2024-05-24T21:46:45Z</updated>
-    </entry>
-    
-
-    <entry>
-        <title>Fiction</title>
-        <link rel="alternate" href="/fiction/" />
-        <id>/fiction</id>
-        <summary></summary>
-        <content></content>
-        <updated>2024-05-24T22:10:39Z</updated>
+        <updated>2024-09-12T02:03:49Z</updated>
     </entry>
     
 
@@ -87,7 +77,7 @@
   <p>I read this for the first time right when I was starting my first company, and revisited it again 10 years later (after a career in the top 5% or so). A lot of what he says is absolutely true, but not all. Good guidance, nonetheless. I wish there were a companion piece written 10 years later as well.</p>
 </ul>
 </div></content>
-        <updated>2024-05-24T21:46:45Z</updated>
+        <updated>2024-09-12T02:03:49Z</updated>
     </entry>
     
 
@@ -97,7 +87,27 @@
         <id>/poems</id>
         <summary></summary>
         <content></content>
-        <updated>2024-05-24T21:46:45Z</updated>
+        <updated>2024-09-12T02:03:49Z</updated>
+    </entry>
+    
+
+    <entry>
+        <title>Fiction</title>
+        <link rel="alternate" href="/fiction/" />
+        <id>/fiction</id>
+        <summary></summary>
+        <content></content>
+        <updated>2024-09-12T02:03:49Z</updated>
+    </entry>
+    
+
+    <entry>
+        <title></title>
+        <link rel="alternate" href="/content/" />
+        <id>/content</id>
+        <summary></summary>
+        <content></content>
+        
     </entry>
     
 
@@ -157,6 +167,30 @@ Un lugar que se inunda así no es un lugar donde puede haber ni fábricas ni tie
 <p><em>Gracias a Rebeca Leal Singer por sus comentarios.</em></p>
 </content>
         <updated>2024-05-05T00:00:00Z</updated>
+    </entry>
+    
+
+    <entry>
+        <title>The World Turns To Ash In My Mouth</title>
+        <link rel="alternate" href="/poems/ash.html" />
+        <id>/poems/ash</id>
+        <summary></summary>
+        <content><p>The world turns to ash in my mouth.<br />
+All colors have gone gray<br />
+and sound detunes to static.</p>
+<p>Days are a child’s porridge<br />
+lifted in a shallow spoon<br />
+it flirts with the mouth<br />
+and splatters back into the bowl</p>
+<p>and lifts<br />
+and flirts<br />
+and falls</p>
+<p>and lifts, and flirts, and falls.</p>
+<p>Perhaps If I misbehave you’ll<br />
+send me to bed without<br />
+my supper.</p>
+</content>
+        <updated>2024-09-12T00:00:00Z</updated>
     </entry>
     
 

@@ -7,7 +7,7 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>Secretos - elbasti.com</title>
+    <title> - elbasti.com</title>
     <link rel="icon" type="image/x-icon" href="/assets/favicon.ico">
     
     <link rel="alternate" type="application/atom+xml" title="Atom" href="/atom.xml">
@@ -36,62 +36,39 @@
             
                 <a  itemprop="url" href="/fiction/"><span itemprop="name">Fiction</span></a>
             
-                <a  itemprop="url" href="/content/"><span itemprop="name"></span></a>
+                <a class="active" itemprop="url" href="/content/"><span itemprop="name"></span></a>
             
             
         </nav> -->
     </header>
 
     <main>
-<nav id="home_nav" class="flex flex-row-reverse w-full px-8 py-4 sm:mb-16 sm:fixed sm:top-0 sm:z-10">
+<div id="home_container" class="flex flex-col justify-start min-h-screen">
+
+  <nav id="home_nav" class="flex flex-row-reverse w-full px-8 py-4 sm:mb-16 sm:fixed sm:top-0 sm:z-10">
   <div id=" nav_img" class="p-2 ml-2 aspect-square max-w-24">
     <a href="/"><img src="/assets/face--bg--2.svg" class="cursor-pointer"></img></a>
   </div>
 </nav>
 
-<section id="main" class="pt-48 pb-24 mx-auto prose max-w-prose">
-  <!-- <section id="main" class="prose prose-lg bg-slate-400"> -->
-  <article class="px-4 prose sm:px-0">
-    <h1 class="text-6xl text-orange-600 capitalize font-display ">Secretos</h1>
-    <div id="page_prose_wrapper" class="mx-auto">
-      <p>Amo mis lugares secretos<br />
-y ver a las parejas<br />
-que se dan un faje en secreto</p>
-<p>y a los jóvenes echados<br />
-leyendo sus libro secretos</p>
-<p>y a los papás con sus hijos<br />
-corriendo, en secreto, después de la escuela.</p>
-<p>Al viejito de sombrero,<br />
-bailando danzón, en secreto.</p>
-<p>Y al afilador, en su bici,<br />
-perdiendo el tiempo en secreto.</p>
-<p>Amo esos lugares secretos<br />
-que solo conozco yo.</p>
-
+  <div id="content" class="flex-grow py-48 mx-auto">
+    <h1 class="px-4 mb-8 text-6xl text-orange-600 font-display sm:px-0"></h1>
+    <ul>
+      
+    </ul>
+    <div id="content__content" class="max-w-2xl prose">
+      
     </div>
-  </article>
-</section>
-
-<section id="pictures" class="mx-auto max-w-prose">
-  
-</section>
-
-<!-- path: /poems
-slug: secretos
-<section id="local_nav"
-  class="flex flex-col items-start justify-start pt-4 pb-48 mx-auto uppercase border-t border-orange-200 border-solid max-w-prose font-display opacity-80">
-   <div><a href="/content/">Back to  path:  slug: content</a></div>
-  <div class="flex flex-row items-start justify-between w-full flex-nowrap">
-     <div class="flex-grow"><a href="/poems/pinta-permanente.html">Previous: Pinta Permanente</a></div>
-     <div class="flex-grow-0"><a href="/poems/retirenme.html">Next: Retírenme de circulación</a></div>
-  </div> -->
-
-</section>
-
-
-<footer id="footer"
+  </div>
+  <footer id="footer"
   class="sticky flex flex-row items-center justify-start h-12 px-4 text-xs font-bold text-orange-900 uppercase border-t border-orange-200 border-solid font-display">
   <div class="flex-grow"><a href="/">elbasti.com</a></div>
   <div class="flex-shrink mr-4"><a href="/rss.xml">RSS</a></div>
   <div class="flex-shrink">Built with <a href="https://getblades.org">Blades</a>.</div>
 </footer>
+</div>
+
+</main>
+</body>
+
+</html>
